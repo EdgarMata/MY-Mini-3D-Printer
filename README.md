@@ -35,7 +35,7 @@ If you don't have a 3D printer you can use your favorite 3D printing service or,
 
 Complete 3D Sketchup Model: [iFixGadget Store](https://www.ifixgadget.pt/loja/ME-Mini-3D-sketchp-Model-p414594756) or [Etsy Store](https://www.etsy.com/listing/1109453640/me-mini-printer-3d-sketchup-model?ref=shop_home_active_1)
 
-Serviço de impressão 3D: [iFixGadget Store](https://www.ifixgadget.pt/loja)
+3D printing service: [iFixGadget Store](https://www.ifixgadget.pt/loja)
 
 ### Electronics
 
