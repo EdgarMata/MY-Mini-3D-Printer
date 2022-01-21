@@ -144,8 +144,10 @@ If you like my work please consider sending me a beer :) [Send Beer](https://www
 ### Legal notice
 
 ![CC](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/88x31-1920w.png)
+
 All content of the ME-Mini project is licensed in accordance with the license Creative **Commons-Attribution-NonCommercial-ShareAlike**
 CC BY-NC-SA
 
 Project: **ME - Mini**
+
 Autor: **Edgar Mata**
