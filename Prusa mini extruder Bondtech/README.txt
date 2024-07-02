@@ -1,0 +1,1 @@
+Prusa mini extruder Bondtech (BMG parts compatible) by DaGov on Thingiverse: https://www.thingiverse.com/thing:4655132
