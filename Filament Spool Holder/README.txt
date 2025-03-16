@@ -1,0 +1,1 @@
+Filament Spool Holder by g_lazarov on Thingiverse: https://www.thingiverse.com/thing:4977751
