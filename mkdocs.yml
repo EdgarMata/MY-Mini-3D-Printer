@@ -1,15 +1,18 @@
+# Project information
 site_name: MY-Mini-3D-Printer
-
 site_url: "https://my-machines.net/MY-Mini-3D-Printer/"
-#site_autor: "Edgar Mata"
+site_author: "Edgar Mata"
 site_description: "Centro de conhecimento My Machines"
 
+# Repository
 repo_name: "MY-Mini-3D-Printer"
 repo_url: "https://github.com/EdgarMata/MY-Mini-3D-Printer"
 
+# Copyright
 copyright: |
   &copy; 2024 <a href="https://my-machines.net/" target="_blank" rel="noopener">My MAchines, LDA</a>
 
+# Configuration
 theme:
   logo: assets/mylogo.svg
   favicon: images/favicon.png
